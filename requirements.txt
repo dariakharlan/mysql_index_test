@@ -1,5 +1,5 @@
 Faker==1.0.7
-mysql-connector-python==8.0.16
+mysql-connector-python==9.1.0
 protobuf==3.8.0
 python-dateutil==2.8.0
 six==1.12.0
